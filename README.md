@@ -1,1 +1,1 @@
-A brutalist HTML only website for showcasing recipes.
+A brutalist HTML and light CSS website for showcasing recipes.

@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: #f6ffc5;
+    font-size: 20px;
+}
+
+.heading{
+    font-size: 75px;
+    text-align: left; 
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.imageLarge{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
